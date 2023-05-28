@@ -55,36 +55,35 @@
 | I010 | 凹凸实验室  | 凹凸技术揭秘 · 技术精进与业务发展两不误 | {{latest_content}}  |  [订阅地址](https://aotu.io/atom.xml)  | 
 | <h2 id="公司官方新闻">公司官方新闻</h2> |  |   |  |
 | C001 | Apple新闻 | Apple官方消息 | {{latest_content}}  |  [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C00 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C002 | BBC中文网 | 国际新闻、时事报道等 | {{latest_content}}  |  [订阅地址](http://feeds.bbci.co.uk/zhongwen/simp/rss.xml) |
+| C003 | 纽约时报中文网 | 全球时政、商业、文化及科技等领域的新闻报道 | {{latest_content}}  |  [订阅地址](https://cn.nytimes.com/rss/) |
+| C004 | 华尔街日报 | 国际商业、财经、科技等领域新闻报道 | {{latest_content}}  |  [订阅地址](https://cn.wsj.com/rss/) |
+| C005 | 经济学人 | 高质量的全球经济、政治、科技和商业报道 | {{latest_content}}  |  [订阅地址](https://www.economist.com/sections/china/rss.xml) |
+| C006 | 路透中文网 | 全球新闻、财经、科技等报道 | {{latest_content}}  |  [订阅地址](http://cn.reuters.com/rss/news/index.xml) |
+| C007 | 法国国际广播电台中文网 | 国际新闻、文化、科技、音乐、电影等报道 | {{latest_content}}  |  [订阅地址](http://cn.rfi.fr/general/rss) |
+| C008 | CNN中文网 | 国际、美国、商业、科技等全方位报道 | {{latest_content}}  |  [订阅地址](https://cn.cnn.com/services/rss/) |
+| C009 | 卫报 | 英国新闻、世界新闻、文化、科技等全方位报道 | {{latest_content}}  |  [订阅地址](https://www.theguardian.com/uk/rss) |
+| C010 | 德国之声中文网 | 国际新闻、德国新闻、生活、文化、科技、体育等报道 | {{latest_content}}  |  [订阅地址](https://www.dw.com/zh/%E6%96%B0%E9%97%BB/s-9016) |
+| C011 | 美国之音中文网 | 国际新闻、美国新闻、文化、科技、体育等报道 | {{latest_content}}  |  [订阅地址](https://www.voachinese.com/api/zl-kzzqkz-rss.xml) |
+| C012 | 金融时报中文网 | 影响世界的商业、经济和政治新闻报道 | {{latest_content}}  |  [订阅地址](https://www.ftchinese.com/rss/feed) |
+| C013 | 南华早报 | 亚洲、中国、国际、商业等领域的新闻报道 | {{latest_content}}  |  [订阅地址](https://www.scmp.com/rss/feeds/) |
+| C014 | 读者文摘 | 人文、历史、文化、社会、科技等领域的报道 | {{latest_content}}  |  [订阅地址](http://www.duzhe.com/rss/215_2.xml) |
+| C015 | 探索发现 | 科学、探索、自然、人文、生命等领域的报道 | {{latest_content}}  |  [订阅地址](http://www.exploration-online.com/rss/feed.xml) |
+| C016 | 机器之心 | 人工智能等新技术、数据科学、业界动态等报道 | {{latest_content}}  |  [订阅地址](https://www.jiqizhixin.com/rss.php) |
+| C017 | 知乎日报 | 自然科学、技术科学、人文社科等领域的报道 | {{latest_content}}  |  [订阅地址](https://www.zhihu.com/rss) |
+| C018 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C019 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C020 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C021 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C022 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C023 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C024 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C025 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C026 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C027 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C028 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C029 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C030 |  |  | {{latest_content}}  |  [订阅地址]() |
 | <h2 id="互联网类">互联网类</h2> |  |   |  |
 | H001 | 虎嗅 | 虎嗅网新闻 | {{latest_content}}  |  [订阅地址](https://www.huxiu.com/rss/0.xml) |  
 | H002 | 36kr | 36氪 | {{latest_content}}  |  [订阅地址](https://www.36kr.com/feed) |  
