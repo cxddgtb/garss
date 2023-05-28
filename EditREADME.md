@@ -62,7 +62,6 @@
 | C006 | 路透中文网 | 全球新闻、财经、科技等报道 | {{latest_content}}  |  [订阅地址](http://cn.reuters.com/rss/news/index.xml) |
 | C007 | 法国国际广播电台中文网 | 国际新闻、文化、科技、音乐、电影等报道 | {{latest_content}}  |  [订阅地址](http://cn.rfi.fr/general/rss) |
 | C008 | CNN中文网 | 国际、美国、商业、科技等全方位报道 | {{latest_content}}  |  [订阅地址](https://cn.cnn.com/services/rss/) |
-| C009 | 卫报 | 英国新闻、世界新闻、文化、科技等全方位报道 | {{latest_content}}  |  [订阅地址](https://www.theguardian.com/uk/rss) |
 | C010 | 德国之声中文网 | 国际新闻、德国新闻、生活、文化、科技、体育等报道 | {{latest_content}}  |  [订阅地址](https://www.dw.com/zh/%E6%96%B0%E9%97%BB/s-9016) |
 | C011 | 美国之音中文网 | 国际新闻、美国新闻、文化、科技、体育等报道 | {{latest_content}}  |  [订阅地址](https://www.voachinese.com/api/zl-kzzqkz-rss.xml) |
 | C012 | 金融时报中文网 | 影响世界的商业、经济和政治新闻报道 | {{latest_content}}  |  [订阅地址](https://www.ftchinese.com/rss/feed) |
@@ -92,7 +91,6 @@
 | <h2 id="金融类">金融类</h2> |  |   |  |
 | F001 | 雪球 | 聪明的投资者都在这里,雪球每日精华 | {{latest_content}}  |  [订阅地址](https://xueqiu.com/hots/topic/rss) |  
 | <h2 id="科技类">科技类</h2> |  |   |  |
-| T001 | Hack News | 极其优质的极客新闻 | {{latest_content}}  |  [订阅地址](https://news.ycombinator.com/rss) |  
 | T002 | 奇客Solidot–传递最新科技情报 | 奇客的资讯，重要的东西 | {{latest_content}}  |  [订阅地址](https://www.solidot.org/index.rss) |  
 | T003 | 环球科学 | 科学美国人中文版，一些科普文章 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/huanqiukexue.xml) |
 | T004 | MIT 科技评论 | MIT 科技评论 本周热榜 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/mittrchina/hot) |  
@@ -109,9 +107,6 @@
 | <h2 id="生活类">生活类</h2> |  |   |  |
 | L001 | 李子柒 | 李子柒的微博 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/weibo/user/2970452952) |  
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| D001 | Behance |  Adobe旗下设计网站Behance | {{latest_content}}  |  [订阅地址](https://www.behance.net/feeds/projects) |  
-| D002 | Behance官方博客 |  Behance官方博客 | {{latest_content}}  |  [订阅地址](https://medium.com/feed/@behance) |  
-| D003 | Pinterest |  图片设计社交 | {{latest_content}}  |  [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  
 | D004 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | {{latest_content}}  |  [订阅地址](https://www.uisdc.com/feed) |  
 | D005 | 腾讯CDC | 腾讯用户研究与体验设计部 | {{latest_content}}  |  [订阅地址](https://cdc.tencent.com/feed/) | 
 | D006 | ID公社 | 发现有意味的设计 | {{latest_content}}  |  [订阅地址](http://feeds.feedburner.com/ID) | 
@@ -141,8 +136,7 @@
 | <div id="C022" style="text-align: center;"><img src="./_media/favicon/C022.png" width="30px" style="width:30px;height: auto;"/><br><span>C022</span></div> | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | {{latest_content}}  |  [订阅地址](https://www.cnbeta.com/commentrss.php) |  
 | <div id="C023" style="text-align: center;"><img src="./_media/favicon/C023.png" width="30px" style="width:30px;height: auto;"/><br><span>C023</span></div> | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | {{latest_content}}  |  [订阅地址](https://bitinn.net/feed/) |  
 | C028 | cnBeta | 中文业界资讯 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/cnbetatop.xml) |  
-| C029 | China Daily News | 中国每日新闻 | {{latest_content}}  |  [订阅地址](http://www.chinadaily.com.cn/rss/cndy_rss.xml) |  
-| C030 | MM范 | 妹子热门图 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/95mm/tab/热门) |  
+| C030 | MM范 | 妹子热门图 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/95mm/tab/热门) | 
 | C031 | CNU视觉联盟 | 每日精选 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/cnu/selected) | 
 | C032 | 香水时代 | 最新香水评论-发现香水圈的新鲜事 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/nosetime/home) |  
 | C033 | 恩山无线论坛  | 无线路由器爱好者的乐园 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/right/forum/31) |  
