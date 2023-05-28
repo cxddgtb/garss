@@ -70,11 +70,11 @@
 | C014 | 读者文摘 | 人文、历史、文化、社会、科技等领域的报道 | {{latest_content}}  |  [订阅地址](http://www.duzhe.com/rss/215_2.xml) |
 | C015 | 探索发现 | 科学、探索、自然、人文、生命等领域的报道 | {{latest_content}}  |  [订阅地址](http://www.exploration-online.com/rss/feed.xml) |
 | C016 | 机器之心 | 人工智能等新技术、数据科学、业界动态等报道 | {{latest_content}}  |  [订阅地址](https://www.jiqizhixin.com/rss.php) |
-| C017 | 知乎日报 | 自然科学、技术科学、人文社科等领域的报道 | {{latest_content}}  |  [订阅地址](https://www.zhihu.com/rss) |
-| C018 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C019 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C020 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C021 |  |  | {{latest_content}}  |  [订阅地址]() |
+| C017 | 知乎日报 | 自然科学、技术科学、人文社科等领域的报道 | {{latest_content}}  |  [订阅地址](http://feeds.feedburner.com/zhihu-daily) |
+| C018 | 月光博客（IT新闻） |  | {{latest_content}}  |  [订阅地址](http://feed.williamlong.info/) |
+| C019 | 端 | 想看全文还是付一下费吧 | {{latest_content}}  |  [订阅地址](https://theinitium.com/newsfeed/) |
+| C020 | FT中文网 | 很多文章的全文需要付费，不过似乎也不贵 | {{latest_content}}  |  [订阅地址](http://www.ftchinese.com/rss/feed) |
+| C021 |  南方周末| 南方周末 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/infzm.xml) |
 | C022 |  |  | {{latest_content}}  |  [订阅地址]() |
 | C023 |  |  | {{latest_content}}  |  [订阅地址]() |
 | C024 |  |  | {{latest_content}}  |  [订阅地址]() |
