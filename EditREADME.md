@@ -72,7 +72,6 @@
 | C017 | 知乎日报 | 自然科学、技术科学、人文社科等领域的报道 | {{latest_content}}  |  [订阅地址](http://feeds.feedburner.com/zhihu-daily) |
 | C018 | 月光博客（IT新闻） |  | {{latest_content}}  |  [订阅地址](http://feed.williamlong.info/) |
 | C019 | 端 | 想看全文还是付一下费吧 | {{latest_content}}  |  [订阅地址](https://theinitium.com/newsfeed/) |
-| C020 | FT中文网 | 很多文章的全文需要付费，不过似乎也不贵 | {{latest_content}}  |  [订阅地址](http://www.ftchinese.com/rss/feed) |
 | C021 |  南方周末| 南方周末 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/infzm.xml) |
 | C022 |  |  | {{latest_content}}  |  [订阅地址]() |
 | C023 |  |  | {{latest_content}}  |  [订阅地址]() |
