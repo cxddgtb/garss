@@ -27,15 +27,6 @@
 
 | 编号 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- | --- |  --- |
-| <h2 id="软件工具">软件工具</h2> |  |   |  |
-| <div id="S001" style="text-align: center;"><img src="./_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> |  不死鸟 | 不死鸟:专注分享优质资源 | {{latest_content}} |  [订阅地址](https://iao.su/feed) | 
-| <div id="S002" style="text-align: center;"><img src="./_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  {{latest_content}} | [订阅地址](https://xclient.info/feed) | 
-| <div id="S003" style="text-align: center;"><img src="./_media/favicon/S003.png" width="30px" style="width:30px;height: auto;"/><br><span>S003</span></div> | 老殁 | 免费推荐优秀软件 |  {{latest_content}} | [订阅地址](https://www.mpyit.com/feed) |
-| <div id="S004" style="text-align: center;"><img src="./_media/favicon/S004.png" width="30px" style="width:30px;height: auto;"/><br><span>S004</span></div> | 鹏少资源网 | 专注于精品软件收录分享 |   {{latest_content}} | [订阅地址](https://www.jokerps.com/feed) |
-| <div id="S005" style="text-align: center;"><img src="./_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | {{latest_content}} | [订阅地址](https://www.appinn.com/feed/) | 
-| <div id="S006" style="text-align: center;"><img src="./_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  {{latest_content}} | [订阅地址](https://masuit.com/rss) |
-| <div id="S007" style="text-align: center;"><img src="./_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  {{latest_content}} | [订阅地址](https://free.apprcn.com/feed/) | 
-| S008 | 异次元软件世界  | 极具人气和特色的软件网站！专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/iplay/home) |  
 | <h2 id="活着的个人独立博客">活着的个人独立博客</h2> |  |   |  |
 | <div id="B001" style="text-align: center;"><img src="./_media/favicon/B001.png" width="30px" style="width:30px;height: auto;"/><br><span>B001</span></div> |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  {{latest_content}} | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
 | <div id="B002" style="text-align: center;"><img src="./_media/favicon/B002.png" width="30px" style="width:30px;height: auto;"/><br><span>B002</span></div> | 当我在扯淡 | 王垠的博客，观点奇妙有趣 |  {{latest_content}} | [订阅地址](https://yinwang1.wordpress.com/feed/) |
@@ -44,15 +35,6 @@
 | D002 | 数字尾巴 | 分享美好数字生活 | {{latest_content}}  |  [订阅地址](https://www.dgtle.com/rss/dgtle.xml) | 
 | D003 | Chiphell  | 分享与交流用户体验 | {{latest_content}}  |  [订阅地址](https://www.chiphell.com/portal.php?mod=rss)  | 
 | <h2 id="IT团队博客">IT团队博客</h2> |  |   |  |
-| I001 | AlloyTeam | 腾讯全端AlloyTeam团队的技术博客 | {{latest_content}}  |  [订阅地址](http://www.alloyteam.com/feed/) | 
-| I002 | 奇舞周刊 | 360前端团队博客，领略前端技术，阅读奇舞周刊  | {{latest_content}}  |  [订阅地址](https://weekly.75.team/rss) | 
-| I004 | 淘系前端团队 | 淘宝团队技术博客 | {{latest_content}}  |  [订阅地址](https://fed.taobao.org/atom.xml) | 
-| I005 | 字节跳动团队技术博客 | 字节跳动团队技术博客 | {{latest_content}}  |  [订阅地址](https://blog.csdn.net/ByteDanceTech/rss/list) | 
-| I006 | 美团技术团队博客 | 美团技术团队博客 | {{latest_content}}  |  [订阅地址](https://tech.meituan.com/feed/)  | 
-| I007 | 云音乐大前端专栏 | 网易云音乐大前端专栏 | {{latest_content}}  |  [订阅地址](https://musicfe.dev/rss)  | 
-| I008 | 百度 FEX 团队 | FEX 技术周刊 | {{latest_content}}  |  [订阅地址](https://fex.baidu.com/feed.xml)  | 
-| I009 | JDC  | 京东设计中心 | {{latest_content}}  |  [订阅地址](https://jdc.jd.com/feed)  | 
-| I010 | 凹凸实验室  | 凹凸技术揭秘 · 技术精进与业务发展两不误 | {{latest_content}}  |  [订阅地址](https://aotu.io/atom.xml)  | 
 | <h2 id="公司官方新闻">公司官方新闻</h2> |  |   |  |
 | C001 | Apple新闻 | Apple官方消息 | {{latest_content}}  |  [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |
 | C002 | BBC中文网 | 国际新闻、时事报道等 | {{latest_content}}  |  [订阅地址](http://feeds.bbci.co.uk/zhongwen/simp/rss.xml) |
