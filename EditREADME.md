@@ -61,7 +61,6 @@
 | C025 |  |  | {{latest_content}}  |  [订阅地址]() |
 | C026 |  |  | {{latest_content}}  |  [订阅地址]() |
 | C027 |  |  | {{latest_content}}  |  [订阅地址]() |
-| C028 |  |  | {{latest_content}}  |  [订阅地址]() |
 | <h2 id="互联网类">互联网类</h2> |  |   |  |
 | H001 | 虎嗅 | 虎嗅网新闻 | {{latest_content}}  |  [订阅地址](https://www.huxiu.com/rss/0.xml) |  
 | H002 | 36kr | 36氪 | {{latest_content}}  |  [订阅地址](https://www.36kr.com/feed) |  
